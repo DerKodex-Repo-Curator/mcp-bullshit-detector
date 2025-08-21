@@ -1,0 +1,21 @@
+{
+  "name": "mcp-bullshit-detector",
+  "version": "0.1.0",
+  "description": "MCP server providing bullshit detection capabilities for response validation",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "test": "echo \"Add tests here\""
+  },
+  "keywords": [
+    "mcp-tool",
+    "bullshit-detection",
+    "validation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.2"
+  }
+}
